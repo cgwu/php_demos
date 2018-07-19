@@ -1,3 +1,6 @@
+.metadata
+.settings
+
 assets/*
 !assets/.gitignore
 protected/runtime/*
